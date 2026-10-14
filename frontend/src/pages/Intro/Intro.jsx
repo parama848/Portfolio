@@ -4,7 +4,11 @@ import { Stars } from "@react-three/drei";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { IoArrowBack } from "react-icons/io5";
+<<<<<<< HEAD
 import parama from "../../assets/parama1.png";
+=======
+import parama from "../../assets/parama.jpeg";
+>>>>>>> origin/main
 import "./stars.css";
 import {
   FaGithub,

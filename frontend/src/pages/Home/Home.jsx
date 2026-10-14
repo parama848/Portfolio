@@ -136,7 +136,11 @@ export default function Home() {
         </p>
       </Link>
 
+<<<<<<< HEAD
       <a href="https://drive.google.com/file/d/1-au2y-5GbyMXtANbMbG4X6J0JDZ1VS-t/view?usp=drive_link">
+=======
+      <a href="https://drive.google.com/file/d/1MgW-wUBQjtMnAk8WwJVTje7OCMnob_LI/view?usp=sharing">
+>>>>>>> origin/main
         <motion.div
           initial="hidden"
           animate="visible"
