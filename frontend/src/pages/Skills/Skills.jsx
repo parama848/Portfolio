@@ -90,11 +90,8 @@ const Skills = () => {
 
           <h3 className="font-semibold text-base sm:text-lg">Core Skills</h3>
           <p className="text-xs sm:text-sm my-2">
-<<<<<<< HEAD
+
             HTML5, CSS3, JavaScript (ES6+), React.js,
-=======
-            HTML5, CSS3, JavaScript (ES6+), React.js, Redux,
->>>>>>> origin/main
             Tailwind CSS
           </p>
 
